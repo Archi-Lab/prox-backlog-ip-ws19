@@ -1,3 +1,8 @@
-# prox-backlog-ipws19
+**Zur Dokumentation:** See the [wiki](https://github.com/Archi-Lab/prox-backlog-ipws19/wiki)!
 
-See the wiki!
+## Meilensteine
+
+* Mo 6.1. 16:00: Sprint Review
+* Mi 29.1. 16:00: Sprint Review
+* Mi 29.1. 16:00: Sprint Review
+
